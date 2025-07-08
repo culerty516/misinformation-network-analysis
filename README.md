@@ -85,9 +85,9 @@ This project investigates how fake news spreads across synthetic social networks
 
 ## 📎 Related Files
 
-- 📘 [Dissertation (PDF)](docs/Chan Kin Lok Gerald Dissertation.pdf)  
-- 🎓 [Viva Presentation (PPTX)](docs/Viva_Presentation.pptx)  
-- 🧪 [Code Notebook](notebooks/FYP_Final_Ver.ipynb)
+-📘 [Dissertation (PDF)](docs/Chan%20Kin%20Lok%20Gerald%20Dissertation.pdf)  
+-🎓 [Viva Presentation (PPTX)](docs/Chan%20Kin%20Lok%20Gerald%20Viva.pptx)  
+-🧪 [Code Notebook](notebooks/Chan%20Kin%20Lok%20Gerald%20Dissertation%20Code.ipynb)
 
 ---
 
