@@ -50,7 +50,7 @@ This project investigates how fake news spreads across synthetic social networks
 
 📁/docs
 
-└── Chan_Kin_Lok_Dissertation.pdf
+└── Chan Kin Lok Gerald Dissertation.pdf
 
 └── Viva_Presentation.pptx
 
