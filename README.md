@@ -38,3 +38,66 @@ This project investigates how fake news spreads across synthetic social networks
 
 ## 📂 Repository Structure
 
+📁/notebooks
+└── FYP_Final_Ver.ipynb # Main code (classification + simulation)
+
+📁/visuals
+└── graphs/ # Network visualizations & metrics
+└── confusion_matrices/ # Classification model outputs
+
+📁/docs
+└── Chan_Kin_Lok_Dissertation.pdf
+└── Viva_Presentation.pptx
+
+📁/data
+└── processed_data.csv # Cleaned merged dataset (fake/real labels)
+
+
+---
+
+## 📊 Key Results
+
+| Model                  | Accuracy | Precision | Recall | F1-score |
+|------------------------|----------|-----------|--------|----------|
+| TF-IDF + Logistic Reg. | 84.0%    | 82%       | 45%    | 0.58     |
+| BERT                   | 84.4%    | 82%       | 66%    | 0.68     |
+
+- BA networks showed faster and broader spread of misinformation  
+- Nodes with high betweenness & eigenvector centrality were critical to spread  
+- Louvain algorithm revealed community structures (echo chambers)
+
+---
+
+## 📌 Future Work
+
+- Add node weights based on classifier confidence scores  
+- Extend sensitivity analysis to recovery rate and initial infection size  
+- Compare synthetic networks with real Twitter graph data  
+- Test targeted interventions on central nodes and communities
+
+---
+
+## 📎 Related Files
+
+- 📘 [Dissertation (PDF)](docs/Chan_Kin_Lok_Dissertation.pdf)  
+- 🎓 [Viva Presentation (PPTX)](docs/Viva_Presentation.pptx)  
+- 🧪 [Code Notebook](notebooks/FYP_Final_Ver.ipynb)
+
+---
+
+## 👤 Author
+
+**Gerald Chan Kin Lok**  
+MSc Data Science, University of Sunderland  
+📫 Contact: culerty516@gmail.com
+
+---
+
+## 📄 License
+
+This project is available for academic and non-commercial use. Please cite or credit the repository if you use or reference any part of this work.
+
+---
+
+You can copy everything from here and paste it into your `README.md` to complete it. If you’d like, I can help you format this and even add badges (e.g., Python version, license, etc.) for extra polish.
+
