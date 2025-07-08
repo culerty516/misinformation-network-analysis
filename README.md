@@ -39,17 +39,23 @@ This project investigates how fake news spreads across synthetic social networks
 ## 📂 Repository Structure
 
 📁/notebooks
+
 └── FYP_Final_Ver.ipynb # Main code (classification + simulation)
 
 📁/visuals
+
 └── graphs/ # Network visualizations & metrics
+
 └── confusion_matrices/ # Classification model outputs
 
 📁/docs
+
 └── Chan_Kin_Lok_Dissertation.pdf
+
 └── Viva_Presentation.pptx
 
 📁/data
+
 └── processed_data.csv # Cleaned merged dataset (fake/real labels)
 
 
@@ -98,6 +104,3 @@ MSc Data Science, University of Sunderland
 This project is available for academic and non-commercial use. Please cite or credit the repository if you use or reference any part of this work.
 
 ---
-
-You can copy everything from here and paste it into your `README.md` to complete it. If you’d like, I can help you format this and even add badges (e.g., Python version, license, etc.) for extra polish.
-
